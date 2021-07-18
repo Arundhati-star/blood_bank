@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 90vh;
+}
+/* .ul {
+  list-style-type: none;
+} */
+
+.add-bg {
+  background: rgba(40, 41, 44, 0.94)
+    url(https://indianbloodbank.com/public/images/add-bg.png) no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 2vh;
+  /* padding-left: 89vw; */
+  padding-top: 8vh;
+
+  /* padding-bottom: 80vh; */
+  border-radius: 15px;
+  width: 100%;
+  float: left;
+  display: flex;
+
+  background-attachment: fixed;
+  box-shadow: 0px 26px 51px 0px rgb(0 0 0 / 22%);
+}
+
+.add-b {
+  background: rgba(40, 41, 44, 0.94)
+    url(https://indianbloodbank.com/public/images/add-bg.png) no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border-radius: 15px;
+  width: 100%;
+  float: left;
+  display: flex;
+  /* padding: 2vh;
+  /* padding-left: 89vw; */
+  padding-top: 8vh;
+
+  /* padding-bottom: 80vh; */
+  border-radius: 15px;
+  width: 100%;
+  float: left;
+  display: flex;
+
+  background-attachment: fixed;
+  box-shadow: 0px 26px 51px 0px rgb(0 0 0 / 22%);
+}
