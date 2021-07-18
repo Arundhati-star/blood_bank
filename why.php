@@ -31,7 +31,7 @@ Various blood components are Red Blood Cells, White Blood Cells, Platelets, Plas
               Be a hero, A real hero in someone’s life.
 </li>
            <li class="text-danger font-weight-bold pull-right">
-                <a href="indexx.php" class="btn btn-danger">Go to Homepage</a>
+                <a href="index.php" class="btn btn-danger">Go to Homepage</a>
 
 </li>
 
