@@ -52,7 +52,7 @@ if(isset($_GET['loginerror'])) {
 </form>
        <ul style="list-style:none;mb-5;">
            <li class="text-danger font-weight-bold pull-right">
-               <a href="indexx.php" class="btn btn-danger mt-4">Go to Homepage</a>
+               <a href="index.php" class="btn btn-danger mt-4">Go to Homepage</a>
 
 </li>
 
